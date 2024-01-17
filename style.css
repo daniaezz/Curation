@@ -1,3 +1,8 @@
+@font-face {
+  font-family: calculator;
+  src: url(aperture2.0-webfont.ttf);
+}
+
 img{
   max-width: 400px;
   max-height: 400px;
@@ -69,7 +74,7 @@ body{
   background-color: white;
   overflow: hidden;
   /* font-family: 'Gotham'; */
-  font-family: 'aperture', sans-serif;
+  font-family: calculator, sans-serif;
 
 
 }
